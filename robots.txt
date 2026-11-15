@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hariomgarments.in/sitemap.xml
